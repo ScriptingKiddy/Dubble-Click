@@ -1,0 +1,6 @@
+Rbutton::
+send, {Rbutton}
+random, r, 90  , 130
+sleep % r
+send, {Rbutton}
+return
